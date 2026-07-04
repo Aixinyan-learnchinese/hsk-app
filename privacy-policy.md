@@ -1,0 +1,46 @@
+# Privacy Policy
+
+**Effective Date:** July 5, 2026
+
+AIXIN Learn Chinese ("the App") respects your privacy. This Privacy Policy explains how we collect, use, and protect your information.
+
+## Information We Collect
+
+The App may collect:
+- Email address (if you sign in)
+- User learning progress
+- Device information
+- Crash reports and diagnostics
+
+## How We Use Information
+
+We use your information to:
+- Provide and improve the learning experience
+- Synchronize your progress
+- Fix bugs and improve app performance
+- Ensure account security
+
+## Third-Party Services
+
+The App may use:
+- Google Firebase
+- Google Play Services
+- Google AdMob (if ads are enabled)
+
+These services may collect information according to their own privacy policies.
+
+## Data Security
+
+We take reasonable measures to protect your information.
+
+## Children's Privacy
+
+The App is not intended to collect personal information from children without parental consent.
+
+## Changes
+
+We may update this Privacy Policy from time to time.
+
+## Contact
+
+Email: NPA.NANNY@icloud.com
